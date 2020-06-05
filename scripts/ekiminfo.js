@@ -6,7 +6,7 @@ var profile = {
 }
 
 function myProfile() {
-    console.log(`Hello World, this is ${profile.fullName} with HNGi7 ID ${profile.hng_id} using ${profile.language} for stage 2 task`);   
+    console.log(`Hello World, this is ${profile.fullName} with HNGi7 ID ${profile.hng_id} and email ${profile.email} using ${profile.language} for stage 2 task`);   
 }
 
 myProfile()
